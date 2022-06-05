@@ -3,7 +3,7 @@
 
 Mikeneko65はkkatanoさんが開発・公開している[Bakeneko65(v3)](https://github.com/kkatano/bakeneko-65)からフォークした65%サイズのメカニカルキーボードです。  
 
-![Mikeneko 65](./image/mikeneko-65.jpg)
+![Mikeneko65](./image/mikeneko-65.jpg)
 
 Oリングガスケットマウント(フリクションフィット)の特性を活かしつつ、フォームを追加してキーボード内部の隙間や空間を減らすことで、打鍵感と打鍵音を向上させました。
 
@@ -23,7 +23,7 @@ OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 - Oリング: シリコン素材のAS568-264またはAS568-263を推奨
 
 ## キーレイアウト
-![Mikeneko 65 layouts](./image/keyboard-layout.png)
+![Mikeneko65 layouts](./image/keyboard-layout.png)
 
 ## ファームウェア
 - [viaバイナリ](./qmk_firmware/mikeneko65_via.hex) ・・・ VIAに対応したファームウェアのバイナリファイルです。通常はこちらをご利用ください。
