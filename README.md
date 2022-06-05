@@ -12,6 +12,7 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 - Changed switch type from soldering to hotswap socket
 - Supported for PCB screw-ins stabilizer
 - Changed MCU to ATmega32U4-MU(R) to deal with MCU supply shortage
+- Added pcb/case/sockeet/switch foam
 
 ## Features
 
