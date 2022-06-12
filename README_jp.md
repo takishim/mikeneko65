@@ -21,7 +21,7 @@ OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 - サイズ: 315 x 110 x 30mm
 - タイピング角度: 6度
 - 重量: 760g前後
-- Oリング: VMQ-30A S568-263またはVMQ-50A AS568-263を推奨
+- Oリング: VMQ-30A AS568-263(柔らかめ)またはVMQ-50A AS568-264(硬め)を推奨
 
 ## キーレイアウト
 ![Mikeneko65 layouts](./image/keyboard-layout.png)
