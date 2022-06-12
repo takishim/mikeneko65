@@ -33,7 +33,7 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 - Home row height: 31mm(with GMK keycaps and bumpons)
 - Typing angle: 6 degree
 - Weight: 760g
-- O-ring gasket: VMQ-30A AS568-263 or VMQ-50A AS568-264 is recommended
+- O-ring gasket: VMQ-30A AS568-263(softer) or VMQ-50A AS568-264(harder) is recommended
 
 ## Notes
 
