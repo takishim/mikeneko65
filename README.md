@@ -49,7 +49,6 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 ## Special thanks to
 
 - **kkatano** Open-sourced Bakeneko65 and answered my questions in his community
-- **ai03, kb-elmo** Open-sourced daughterboards
 - **desuchan** Allowed me to use the plate he designed
 - People who supported the development of Mikeneko65
 
