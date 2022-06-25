@@ -41,7 +41,7 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 
 ## Community
 
-- Discord: https://discord.com/channels/927936241805189171/927936242283319308
+- Discord: [takishim's server](https://discord.gg/w4NRNrZkBp)
   - Have fun with community members
   - Talk about Mikeneko65 builds and mods, and share your works
   - You can also contact me from there
