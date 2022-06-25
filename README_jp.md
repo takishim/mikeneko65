@@ -33,7 +33,7 @@ OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 - [VIAソースコード](./keyboards) ・・・ [VIA](https://github.com/the-via/keyboards)に取り込まれています。
 
 ## コミュニティ
-Mikeneko65に関する雑談・ご質問・ご意見は[takishimのDiscordサーバー](https://discord.com/channels/927936241805189171/927936242283319308)でお願いします。  
+Mikeneko65に関する雑談・ご質問・ご意見は[takishimのDiscordサーバー](https://discord.gg/w4NRNrZkBp)でお願いします。  
 (kkatanoさんのDiscordサーバーでMikeneko65について問い合わせることはご迷惑になるのでご遠慮ください)
 
 ## ライセンス
