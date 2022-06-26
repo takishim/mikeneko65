@@ -26,6 +26,9 @@ OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 ## キーレイアウト
 ![Mikeneko65 layouts](./image/keyboard-layout.png)
 
+## ビルドガイド
+[ビルドガイド(日本語)](https://github.com/takishim/mikeneko65-docs/blob/master/BUILDGUIDE_jp.md)
+
 ## ファームウェア
 - [viaバイナリ](./qmk_firmware/mikeneko65_via.hex) ・・・ VIAに対応したファームウェアのバイナリファイルです。通常はこちらをご利用ください。
 - [defaultバイナリ](./qmk_firmware/mikeneko65_default.hex) ・・・ VIAに対応していないファームウェアのバイナリファイルです。
@@ -41,6 +44,9 @@ MIT [英語](https://opensource.org/licenses/MIT) [日本語](https://licenses.o
 
 ## 免責
 すべてのファイルは、ご自身の責任においてご利用ください。
+
+## キット販売
+[たきしむ工房](https://takishim.com/)でキットを販売しています。
 
 ## 謝辞
 - **kkatanoさん** ・・・ Bakeneko65のデータをOSSで公開していただいたおかげで、時間を忘れて没頭できる趣味に出会うことができました。
