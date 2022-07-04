@@ -26,6 +26,10 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 
 ![Mikeneko65 layouts](./image/keyboard-layout.png)
 
+## Buide guide
+
+[Build Guide(English)](https://github.com/takishim/mikeneko65-docs/blob/master/BUILDGUIDE_en.md)
+
 ## Specs
 
 - Dimensions: 315 x 110 x 30mm
