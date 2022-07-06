@@ -29,13 +29,15 @@ OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 ## ビルドガイド
 [ビルドガイド(日本語)](https://github.com/takishim/mikeneko65-docs/blob/master/BUILDGUIDE_jp.md)
 
-## ファームウェア & 定義ファイル
-- [VIA対応ファームウェア](./mikeneko65_via.json) ・・・ VIAに対応したファームウェアのバイナリファイルです。通常はこちらをご利用ください。
+## ファームウェア & JSON定義ファイル
+- [VIA対応ファームウェア](./mikeneko65_via.hex) ・・・ VIAに対応したファームウェアのバイナリファイルです。通常はこちらをご利用ください。
 - [VIA非対応ファームウェア](./mikeneko65_default.hex) ・・・ VIAに対応していないファームウェアのバイナリファイルです。
 - [QMKソースコード](https://github.com/qmk/qmk_firmware/tree/master/keyboards/mikeneko65)
 - [VIAソースコード](https://github.com/the-via/keyboards/tree/master/src/mikeneko65)
 - [VIA/Remap/Vial用JSONファイル](./mikeneko65_via.json))
 - [KeyboardLayoutEditor用JOSNファイル](./mikeneko65_kle.json))
+
+※ ファームウェアとJSONファイルは、リンクを右クリックして「名前を付けてリンク先を保存」でダウンロードできます
 
 ## コミュニティ
 Mikeneko65に関する雑談・ご質問・ご意見は[takishimのDiscordサーバー](https://discord.gg/w4NRNrZkBp)でお願いします。  
