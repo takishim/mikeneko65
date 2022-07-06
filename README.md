@@ -43,12 +43,22 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 
 - All files are to be used at your own risk
 
+## Firmware & JSON definition file
+- [Firmware(VIA Supported)](./mikeneko65_via.json)
+- [Firmware(VIA NOT Supported)](./mikeneko65_default.hex)
+- [QMK Source Code](https://github.com/qmk/qmk_firmware/tree/master/keyboards/mikeneko65)
+- [VIA Source Code](https://github.com/the-via/keyboards/tree/master/src/mikeneko65)
+- [JSON file for VIA/Remap/Vial](./mikeneko65_via.json))
+- [JOSN file for KeyboardLayoutEditor](./mikeneko65_kle.json))
+
 ## Community
 
 - Discord: [takishim's server](https://discord.gg/w4NRNrZkBp)
   - Have fun with community members
   - Talk about Mikeneko65 builds and mods, and share your works
   - You can also contact me from there
+
+Please do not ask questions about Mikeneko65 on kkatano's discord server as it will be an inconvenience.
 
 ## Special thanks to
 
