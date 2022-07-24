@@ -71,6 +71,9 @@ Please do not ask questions about Mikeneko65 on kkatano's discord server as it w
 ## Also I should mention
 - Many keyboard community members for giving me advice and feedback, really thanks!
 
+## Kit
+Available at [Takishim Studio](https://takishim.com/).
+
 ## Photo Gallery
 ![akk_bow](./image/akk_bow.jpg)
 ![akko_blackgold](./image/akko_blackgold.jpg)
