@@ -1,5 +1,5 @@
 # Mikeneko65
-(Japanese version is [here](./README_jp.md))
+(日本語版は[こちら](./README_jp.md))
 
 A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakeneko65](https://github.com/kkatano/bakeneko-65).
 
