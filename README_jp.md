@@ -3,7 +3,7 @@
 
 Mikeneko65はkkatanoさんが開発・公開している[Bakeneko65(v3)](https://github.com/kkatano/bakeneko-65)からフォークした65%サイズのメカニカルキーボードです。  
 
-![Mikeneko65](./image/mikeneko-65.jpg)
+![Mikeneko65](./image/mikeneko65.jpg)
 
 Oリングガスケットマウント(フリクションフィット)の特性を活かしつつ、フォームを追加してキーボード内部の隙間や空間を減らすことで、打鍵感と打鍵音を向上させました。
 

@@ -3,7 +3,7 @@
 
 A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakeneko65](https://github.com/kkatano/bakeneko-65).
 
-![Mikeneko65](./image/mikeneko-65.jpg)
+![Mikeneko65](./image/mikeneko65.jpg)
 
 ## Updates
 
