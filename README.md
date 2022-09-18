@@ -22,7 +22,7 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 - Supports QMK firmware, VIA, Remap and Vial
 - PCB designed with KiCAD 5.1.12
 
-## Layouts
+## Layout
 
 ![Mikeneko65 layouts](./image/keyboard-layout.png)
 
