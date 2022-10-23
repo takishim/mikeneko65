@@ -5,7 +5,7 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 
 ![Mikeneko65](./image/mikeneko-65.jpg)
 
-- レビュー動画 [【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+-  [【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://www.youtube.com/watch?v=eKG2YrfDjyA)
 
 [![【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://raw.githubusercontent.com/takishim/mikeneko65/master/image/daifuku-youtube.jpg)](https://www.youtube.com/watch?v=eKG2YrfDjyA)
 
@@ -92,7 +92,7 @@ Available at [Takishim Studio](https://takishim.com/).
 ![olivia_light](./image/olivia_light.jpg)
 ![taihao_c01bk303_c02gb201](./image/taihao_c01bk303_c02gb201.jpg)
 
-## Reveiw Movie
+## Reveiw Movies
 [4K Mikeneko65](https://www.youtube.com/watch?v=AP2OyEw8YFc) by KS Japan
 
 [Mikeneko65 with Gateron Oil King [Sound Test]](https://www.youtube.com/watch?v=dd4mWbpZy44) by Keyboard Test
