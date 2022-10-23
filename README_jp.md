@@ -7,6 +7,10 @@ Mikeneko65はkkatanoさんが開発・公開している[Bakeneko65(v3)](https:/
 
 Oリングガスケットマウント(フリクションフィット)の特性を活かしつつ、フォームを追加してキーボード内部の隙間や空間を減らすことで、打鍵感と打鍵音を向上させました。
 
+- レビュー動画 [【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+
+[![【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://raw.githubusercontent.com/takishim/mikeneko65/master/image/daifuku-youtube.jpg)](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+
 ## OSS版Bakeneko65とMikeneko65の違い
 OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 - ホットスワップソケットに対応、ホットスワップソケット対応に伴い、キーレイアウトを固定化
