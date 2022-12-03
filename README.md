@@ -1,9 +1,14 @@
 # Mikeneko65
-(Japanese version is [here](./README_jp.md))
+(日本語版は[こちら](./README_jp.md))
 
 A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakeneko65](https://github.com/kkatano/bakeneko-65).
 
 ![Mikeneko65](./image/mikeneko-65.jpg)
+
+-  [【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+
+[![【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://raw.githubusercontent.com/takishim/mikeneko65/master/image/daifuku-youtube.jpg)](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+
 
 ## Updates
 
@@ -22,7 +27,7 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 - Supports QMK firmware, VIA, Remap and Vial
 - PCB designed with KiCAD 5.1.12
 
-## Layouts
+## Layout
 
 ![Mikeneko65 layouts](./image/keyboard-layout.png)
 
@@ -71,3 +76,24 @@ Please do not ask questions about Mikeneko65 on kkatano's discord server as it w
 
 ## Also I should mention
 - Many keyboard community members for giving me advice and feedback, really thanks!
+
+## Kit
+Available at [Takishim Studio](https://takishim.com/).
+
+## Photo Gallery
+![akk_bow](./image/akk_bow.jpg)
+![akko_blackgold](./image/akko_blackgold.jpg)
+![akko_oceanblue](./image/akko_oceanblue.jpg)
+![gmk_redsamurai](./image/gmk_redsamurai.jpg)
+![gmk_samuraiblue](./image/gmk_samuraiblue.jpg)
+![gmk_wob](./image/gmk_wob.jpg)
+![nb_bow](./image/nb_bow.jpg)
+![nb_hachimitsu](./image/nb_hachimitsu.jpg)
+![olivia_dark](./image/olivia_dark.jpg)
+![olivia_light](./image/olivia_light.jpg)
+![taihao_c01bk303_c02gb201](./image/taihao_c01bk303_c02gb201.jpg)
+
+## Reveiw Movies
+[4K Mikeneko65](https://www.youtube.com/watch?v=AP2OyEw8YFc) by KS Japan
+
+[Mikeneko65 with Gateron Oil King [Sound Test]](https://www.youtube.com/watch?v=dd4mWbpZy44) by Keyboard Test

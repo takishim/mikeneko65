@@ -7,6 +7,10 @@ Mikeneko65はkkatanoさんが開発・公開している[Bakeneko65(v3)](https:/
 
 Oリングガスケットマウント(フリクションフィット)の特性を活かしつつ、フォームを追加してキーボード内部の隙間や空間を減らすことで、打鍵感と打鍵音を向上させました。
 
+- レビュー動画 [【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+
+[![【極上の打鍵感】Mikeneko65 レビュー | Mikeneko65 : Custom Mechanical Keyboard Review](https://raw.githubusercontent.com/takishim/mikeneko65/master/image/daifuku-youtube.jpg)](https://www.youtube.com/watch?v=eKG2YrfDjyA)
+
 ## OSS版Bakeneko65とMikeneko65の違い
 OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 - ホットスワップソケットに対応、ホットスワップソケット対応に伴い、キーレイアウトを固定化
@@ -57,3 +61,26 @@ MIT [英語](https://opensource.org/licenses/MIT) [日本語](https://licenses.o
 - **kkatanoさん** ・・・ Bakeneko65のデータをOSSで公開していただいたおかげで、時間を忘れて没頭できる趣味に出会うことができました。
 - **desuchanさん** スクリューインに対応したプレートのデータを流用させていただきました。
 - **各Discordサーバーの皆さん** ・・・ 様々なことを教えていただき、学ばせていただきました。
+
+## フォトギャラリー
+![akk_bow](./image/akk_bow.jpg)
+![akko_blackgold](./image/akko_blackgold.jpg)
+![akko_oceanblue](./image/akko_oceanblue.jpg)
+![gmk_redsamurai](./image/gmk_redsamurai.jpg)
+![gmk_samuraiblue](./image/gmk_samuraiblue.jpg)
+![gmk_wob](./image/gmk_wob.jpg)
+![nb_bow](./image/nb_bow.jpg)
+![nb_hachimitsu](./image/nb_hachimitsu.jpg)
+![olivia_dark](./image/olivia_dark.jpg)
+![olivia_light](./image/olivia_light.jpg)
+![taihao_c01bk303_c02gb201](./image/taihao_c01bk303_c02gb201.jpg)
+
+## レビュー動画
+[4K Mikeneko65](https://www.youtube.com/watch?v=AP2OyEw8YFc) by KS Japan
+
+[ほぼ週刊キーボードニュース 第161回](https://www.youtube.com/watch?v=gyhsUWAneQQ&t=376s) by ほぼ週刊キーボードニュース
+
+[Mikeneko65 with Gateron Oil King [Sound Test]](https://www.youtube.com/watch?v=dd4mWbpZy44) by Keyboard Test
+
+## レビュー記事
+[【レビュー依頼記事】Mikeneko65のレビューをするよ！](https://salicylic-acid3.hatenablog.com/entry/mikeneko65-review) by Salicylic_acid3
