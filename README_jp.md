@@ -37,7 +37,8 @@ OSS版Bakeneko65(v3)とMikeneko65の主な違いは下記のとおりです。
 - [VIA/Remap/Vial用JSONファイル](./mikeneko65_via.json))
 - [KeyboardLayoutEditor用JOSNファイル](./mikeneko65_kle.json))
 
-※ ファームウェアとJSONファイルは、リンクを右クリックして「名前を付けてリンク先を保存」でダウンロードできます
+※ ファームウェアとJSONファイルは、リンクを右クリックして「名前を付けてリンク先を保存」でダウンロードできます  
+※ ファームウェアはQMK 0.17.9でビルドしました
 
 ## コミュニティ
 Mikeneko65に関する雑談・ご質問・ご意見は[takishimのDiscordサーバー](https://discord.gg/w4NRNrZkBp)でお願いします。  

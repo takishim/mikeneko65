@@ -51,7 +51,8 @@ A simple 65% keyboard for DIYers. This project was forked from [kkatano's Bakene
 - [JSON file for VIA/Remap/Vial](./mikeneko65_via.json))
 - [JOSN file for KeyboardLayoutEditor](./mikeneko65_kle.json))
 
-You can download firmware and JSON files by right-clicking on the link and selecting "Save link as".
+You can download firmware and JSON files by right-clicking on the link and selecting "Save link as".  
+These firmwares are built with QMK 0.17.9.
 
 ## Community
 
